@@ -1,1 +1,2 @@
 # PBKDF2PassHash
+A basic helper class for creating PBKDF2 hashes and verifying them targeting .NET 6 and conforming to the PHC string format - https://github.com/P-H-C/phc-string-format/blob/master/phc-sf-spec.md 
